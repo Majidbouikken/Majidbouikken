@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 ha_bouikken_bahi_amar@esi.dz
 - 😄 Pronouns: he/him
 - ⚡ Fun fact about me: I'm also a digital artist
+-->
+[![Majidbouikken's github stats](https://github-readme-stats.vercel.app/api?username=Majidbouikken)](https://github.com/anuraghazra/github-readme-stats)
