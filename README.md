@@ -1,7 +1,7 @@
-### Hi 👋, I'm Majid!
+### Hiya 👋, I'm Abdelmadjid!
 
-- 🔭 I’m software engineer specializing in Java and Kotlin technologies, I do Spring and Android development!
-- 🌱 I’m also learning various technologies and libraries like Computer Graphics using OpenGL and three.js, trying to diversifie my skills
+- 🔭 I'm a passionate software engineer and creative developer who approaches each project with zeal, I build digital solutions that seamlessly blend technical expertise with artistic finesse.
+- 🌱 I believe in continuous learning, always discovering new technologies and learning new principles
 - 📫 bouikkenmajid@gmail.com
-- ⚡ Fun fact about me: I'm also a digital artist, check out my [portfolio!](https://www.behance.net/majidbouikken)
+- ⚡ Feel free to check my [portfolio!](https://abdelmadjid.me/) for more insight! 
 ** **
