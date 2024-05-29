@@ -1,8 +1,8 @@
-### Hiya 👋, I'm Abdelmadjid!
+### Hiya 👋, I'm Abdelmadjid! a Software Engineer based in Paris.
 
-- 🧑🏻‍💻 I'm a passionate software engineer and creative developer, experienced in developing robust software solutions and enhancing user experiences.
+- 🧑🏻‍💻 I'm experienced in developing robust fullstack solutions, enhancing user experiences, and designing scalable backend systems,
 - 🌟 Committed to delivering high-quality results and always approaching each project with zeal.
-- 🌱 I believe in continuous learning, always discovering new technologies and learning new principles
+- 🌱 I believe in continuous learning, Currently expanding my expertise in cloud engineering ☁️
 - 📫 bouikkenmajid@gmail.com
 - ⚡ Feel free to check out my [portfolio!](https://abdelmadjid.me/) for more insight! 
 ** **
